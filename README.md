@@ -1,1 +1,1 @@
-Automatically adds leetcode solutions to this repository
+LeetCode solutions
